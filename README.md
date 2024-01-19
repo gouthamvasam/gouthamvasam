@@ -12,5 +12,6 @@
 
 - My communication skills are reflected in my [20 publications in peer-reviewed journals and award-winning conference presentations at regional and international levels](https://scholar.google.com/citations?user=fZFTqlgAAAAJ&hl=en). I am a team player with a knack for independent, fast-paced self-learning and didactic skills.
 
-I am open to discussing roles/opportunities in the fields of Bioinformatics, Omics Data Analysis, Machine Learning, Life Sciences, Data Science, Computer Vision, or a combination of these.
+- I am open to discussing roles/opportunities in the fields of Bioinformatics, Omics Data Analysis, Machine Learning, Life Sciences, Data Science, Computer Vision, or a combination of these.
+  
 - 📫 How to reach me ... [gouthamvasam@gmail.com](mailto:gouthamvasam@gmail.com) and [Linkedin](https://www.linkedin.com/in/goutham-vasam-404a221a/)
